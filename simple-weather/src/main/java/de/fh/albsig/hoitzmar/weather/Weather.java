@@ -1,4 +1,4 @@
-package src.main.java.de.fh.albsig.hoitzmar.weather;
+package main.java.de.fh.albsig.hoitzmar.weather;
 
 public class Weather {
     private String city;
